@@ -1,0 +1,41 @@
+/* style.css for index.html */
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: black;
+  background-color: white;
+  font-size: 18px;
+  padding-right: 600px;
+}
+
+#heading-one {
+  font-size: 60px;
+  font-style: italic;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: #ffffff;
+  background-color: black;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 25px;
+  margin-top: 0px;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 40px;
+  font-weight: bolder;
+}
+
+div li:hover {
+  color: #ffeca1;
+  font-size: 20.5px;
+  opacity: 80%;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: #ffcd04;
+}
